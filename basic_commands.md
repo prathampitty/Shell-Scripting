@@ -48,4 +48,3 @@
 48. **top** – View active processes live with their system usage
 49. **useradd and usermod** – Add new user or change existing users data
 50. **passwd** – Create or update passwords for existing users
-
